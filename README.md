@@ -1,42 +1,22 @@
-# LSDB hackathon at the Rubin Community Workshop 2025
+# LSDB at Stellar Streams in LSST; DESC Dark Matter Workshop 2025
 
 <img src="https://cdn2.webdamdb.com/1280_2yYofV7cPVE1.png?1607019137" height="200"> [![LINCC Frameworks](https://github.com/astronomy-commons/lsdb/blob/main/docs/lincc-logo.png)](https://lsstdiscoveryalliance.org/programs/lincc-frameworks/)
 
-Demos prepared for the LINCC Frameworks Hackathon at the Rubin Community Workshop, 2025, Tuscon
+Demos prepared for the Stellar Streams in LSST; DESC Dark Matter Workshop, 2025, Seattle, WA.
 The noteboooks showcase working with HATS-partitioned survey catalogs via [LSDB](https://lsdb.io), and time domain analysis with [nested-pandas](https://nested-pandas.readthedocs.io/en/latest/).
 
 ### When and where:
 
-**Sunday 27 July**
+More information at this [link](https://docs.google.com/document/d/1xBtN7V188nmx7-PIVaEtSRinStESw4nJphndLxKQXQA/)
 
-* 9:00am – Hackathon Welcome (at NOIRLab; NOIRLab is a 15 minute walk from the Tucson Marriott University Park or 3 stops on the free Sun Tran light rail)
-* 9:30am – LINCC Frameworks Tutorials on LSDB and TDAstro
-* 12:30am – Plenary Pitch Session
-* 1:00pm – Hacking begins
-* 5:00pm – Pizza and sandwich dinner provided; teams may continue working if so desired
+### How to ask for help
 
-**Monday 28 July**
-
-* 9:00am-10:00am – RCW Plenary #1 , at Tucson Marriott University Park; NOIRLab is a 15 minute walk or 3 stops on the free Sun Tran light rail
-* 10:30am – Plenary opening session, before hacking resumes
-* 4:00pm – Plenary Project Presentations
-* 5:00pm – Hackathon Close
-* 5:30pm-8:00pm – Casual Social for Hackathon participants
-
-### Event resources
-
-* [Website](https://lsstdiscoveryalliance.org/lincc-frameworks-workshops-and-hackathons/)
 * Slack channel
-  * We will utilize the `#lincc-frameworks-hack-july2025` channel on LSST-DA slack.
-* Pitches
-  * Craft your Project Pitch ideas and share them with the other hackathon participants. 
-  * Our [Pitch instructions PDF document](https://lsstcorg.sharepoint.com/:b:/g/ES_LXMmSL5VOtEh2ffiiAP8BIfJAFkVFpwfA61gI_OFMxA?e=yDORga) contains some Tips and FAQs and examples from the LF Team. 
-  * When you’re ready to share, add your ideas to the [Google Docs Pitches](https://docs.google.com/document/d/10n7OfOHEYK-n0500OzpuSuV92CsmgCHHkaAwS22xcYw/edit?usp=sharing). * We also encourage you to post your ideas on this `#lincc-frameworks-hack-july2025` channel and brainstorm on each other’s posts. If there are things the LINCC Frameworks team might also be able to do in advance to help your project, feel free to ask for that too!
-  * All documents we share with you will be available in this [Sharepoint Folder](https://lsstcorg.sharepoint.com/:f:/g/ErkRZva4HklFsmYtPW30P4gBJAD5_IgE4YyGn3g7crDMJw?e=iP5clb).
+  * Feel free to use `#lincc-frameworks-lsdb` channel on LSST-DA slack for any questions, bugs, or problems!
 
 ### Main references
 
-* [Slide deck](https://docs.google.com/presentation/d/1tMBa8964guyaf0DGVZ7NsE2ox6TAkOcITgaTj4gPXWw)
+* [Slide deck](https://docs.google.com/presentation/d/1ZxC_zhl3FDGueUXswfFrBXlgpViei2wu6RO6uhtgM5s)
 * LSDB ([Main page](https://lsdb.io))([LSDB catalogs](https://data.lsdb.io))([on GitHub](https://github.com/astronomy-commons/lsdb))([on ReadTheDocs](https://lsdb.readthedocs.io/en/latest/))  
   * [Rubin Observatory DP1 documentation page for LSDB](https://dp1.lsst.io/products/lsdb.html)  
   * [Working with Rubin data section in LSDB documentation](https://docs.lsdb.io/en/latest/tutorial_toc/toc_rubin.html)
