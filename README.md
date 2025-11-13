@@ -27,13 +27,9 @@ More information at this [link](https://docs.google.com/document/d/1xBtN7V188nmx
 
 ### On Rubin Science Platform
 
-Make sure that you have access to the Rubin Science Platform and follow the instructions at [lsdb.io/dp1](https://lsdb.io/dp1). Note that LSDB data is still in soft launch phase, so you have to install `lsdb` package - e.g., by opening a notebook and running the following command (and restarting the kernel after it):
+Make sure that you have access to the Rubin Science Platform and follow the instructions at [lsdb.io/dp1](https://lsdb.io/dp1).
 
-```
-%pip install lsdb
-```
-
-For a complete guide to setting up an RSP account and getting LSDB available in
+For a complete guide to setting up an RSP account and getting custom versions of LSDB available in
 your notebooks, we've put together a [system guide](/setup/) that you might find useful.
 
 ## [Notebooks](/tutorials/)
